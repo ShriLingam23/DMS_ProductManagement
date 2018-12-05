@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inventry</string>
+    <array name="category">
+        <item>"Please select a Category"</item>
+        <item>Food</item>
+        <item>Cosmatic</item>
+        <item>Stationary</item>
+    </array>
+
+</resources>
